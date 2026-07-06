@@ -219,7 +219,7 @@ Hospital-Management-Database/
 
 ## Developer
 
-**Name:** Yulianis Delgado
+**Name:** Kerlys Bello 
 
 **Program:** Riwi 
 
