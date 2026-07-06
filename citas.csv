@@ -1,0 +1,9 @@
+id_cita;fecha_cita;hora;diagnostico;id_paciente;id_medico
+1;2026-07-01;08:00;Gripe;1;1
+2;2026-07-15;09:00;Control;1;1
+3;2026-07-02;10:00;Fiebre;2;2
+4;2026-07-03;11:00;Migrañ;3;1
+5;2026-08-01;08:30;Control;2;2
+6;2026-07-04;14:00;Hipertensió;4;3
+7;2026-07-05;15:00;Arritmia;5;3
+8;2026-08-10;10:30;Chequeo;1;3
